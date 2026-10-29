@@ -27,7 +27,7 @@
     "node-media-server": "^4.2.4",
     "rcon-client": "^4.2.5",
     "vec3": "^0.1.10",
-    "ws": "^8.16.0"
+    "ws": "^8.22.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
